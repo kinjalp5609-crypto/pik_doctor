@@ -81,7 +81,7 @@ Optional accuracy upgrade: `ml/colab_train_mobilenet.py` fine-tunes a pretrained
 Field photos from Maharashtra farms (cotton, soybean, sugarcane, onion, pomegranate, which PlantVillage does not cover), native-speaker review of every sentence, voice input with an on-device speech model, and a "send to KVK" button that queues a case for when the phone gets signal.
 
 ## Data and credits
-Leaf images: PlantVillage (Hughes & Salathé 2015; Mohanty et al. 2016). Not redistributed here except six held-out demo photos in `app/samples` (provenance in `docs/samples_provenance.json`). Team credits: *add your names here*.
+Leaf images: PlantVillage (Hughes & Salathé 2015; Mohanty et al. 2016). Not redistributed here except six held-out demo photos in `app/samples` (provenance in `docs/samples_provenance.json`). Team credits:Sachi Sarda,Ayusha Hongekar,Sahasra Oleti,Kinjal Parmar
 
 *Pik Doctor is a screening aid, not a diagnosis. Confirm with an agriculture expert before spraying anything.*
 

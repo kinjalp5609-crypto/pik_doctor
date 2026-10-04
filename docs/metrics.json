@@ -1,0 +1,181 @@
+{
+ "n_test": 994,
+ "acc_auto_no_tta": 0.9346076458752515,
+ "acc_auto": 0.9466800804828974,
+ "acc_crop_known": 0.9617706237424547,
+ "per_class": {
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+   "n": 40,
+   "recall": 0.95,
+   "precision": 0.9047619047619048
+  },
+  "Corn_(maize)___Common_rust_": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 1.0
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+   "n": 40,
+   "recall": 0.875,
+   "precision": 0.9459459459459459
+  },
+  "Corn_(maize)___healthy": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 1.0
+  },
+  "Grape___Black_rot": {
+   "n": 40,
+   "recall": 0.925,
+   "precision": 0.9487179487179487
+  },
+  "Grape___Esca_(Black_Measles)": {
+   "n": 40,
+   "recall": 0.975,
+   "precision": 0.9512195121951219
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 0.9523809523809523
+  },
+  "Grape___healthy": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 1.0
+  },
+  "Pepper,_bell___Bacterial_spot": {
+   "n": 40,
+   "recall": 0.975,
+   "precision": 0.975
+  },
+  "Pepper,_bell___healthy": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 0.9090909090909091
+  },
+  "Potato___Early_blight": {
+   "n": 40,
+   "recall": 1.0,
+   "precision": 0.975609756097561
+  },
+  "Potato___Late_blight": {
+   "n": 40,
+   "recall": 0.95,
+   "precision": 0.95
+  },
+  "Potato___healthy": {
+   "n": 16,
+   "recall": 0.875,
+   "precision": 0.9333333333333333
+  },
+  "Tomato___Bacterial_spot": {
+   "n": 40,
+   "recall": 0.95,
+   "precision": 0.8837209302325582
+  },
+  "Tomato___Early_blight": {
+   "n": 40,
+   "recall": 0.9,
+   "precision": 0.9
+  },
+  "Tomato___Late_blight": {
+   "n": 40,
+   "recall": 0.95,
+   "precision": 0.9047619047619048
+  },
+  "Tomato___Leaf_Mold": {
+   "n": 40,
+   "recall": 0.925,
+   "precision": 0.925
+  },
+  "Tomato___Septoria_leaf_spot": {
+   "n": 40,
+   "recall": 0.875,
+   "precision": 0.8333333333333334
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+   "n": 40,
+   "recall": 0.95,
+   "precision": 0.926829268292683
+  },
+  "Tomato___Target_Spot": {
+   "n": 40,
+   "recall": 0.9,
+   "precision": 0.9473684210526315
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+   "n": 40,
+   "recall": 0.85,
+   "precision": 1.0
+  },
+  "Tomato___Tomato_mosaic_virus": {
+   "n": 38,
+   "recall": 1.0,
+   "precision": 0.95
+  },
+  "Tomato___healthy": {
+   "n": 40,
+   "recall": 0.975,
+   "precision": 1.0
+  },
+  "Other___not_covered": {
+   "n": 100,
+   "recall": 0.92,
+   "precision": 0.9787234042553191
+  }
+ },
+ "diseased_called_healthy_auto": 0.006112469437652812,
+ "diseased_called_healthy_crop_known": 0.0024449877750611247,
+ "selective": {
+  "auto@0.5": {
+   "coverage": 0.9748490945674044,
+   "acc_on_answered": 0.9566563467492261
+  },
+  "crop_known@0.5": {
+   "coverage": 0.9869215291750503,
+   "acc_on_answered": 0.9663608562691132
+  },
+  "auto@0.6": {
+   "coverage": 0.9346076458752515,
+   "acc_on_answered": 0.9730893433799784
+  },
+  "crop_known@0.6": {
+   "coverage": 0.9567404426559356,
+   "acc_on_answered": 0.9779179810725552
+  },
+  "auto@0.7": {
+   "coverage": 0.8893360160965795,
+   "acc_on_answered": 0.9830316742081447
+  },
+  "crop_known@0.7": {
+   "coverage": 0.9235412474849095,
+   "acc_on_answered": 0.9869281045751634
+  },
+  "auto@0.8": {
+   "coverage": 0.8380281690140845,
+   "acc_on_answered": 0.9891956782713085
+  },
+  "crop_known@0.8": {
+   "coverage": 0.8853118712273642,
+   "acc_on_answered": 0.9920454545454546
+  },
+  "auto@0.9": {
+   "coverage": 0.755533199195171,
+   "acc_on_answered": 0.9946737683089214
+  },
+  "crop_known@0.9": {
+   "coverage": 0.8249496981891348,
+   "acc_on_answered": 0.9939024390243902
+  }
+ },
+ "ood_n": 600,
+ "ood_not_covered_or_unsure": {
+  "0.5": 0.9233333333333333,
+  "0.6": 0.9566666666666667,
+  "0.7": 0.975,
+  "0.8": 0.9883333333333333,
+  "0.9": 0.995
+ },
+ "ood_labelled_as_a_covered_disease_confidently_at_0.7": 0.025
+}

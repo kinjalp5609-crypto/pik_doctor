@@ -1,0 +1,11 @@
+Pik Doctor (पीक डॉक्टर): offline crop-leaf doctor for Maharashtra, in Marathi, Hindi and English.
+
+The problem: Farmers growing tomato, grapes, maize, potato and peppers often spot a sick leaf far from signal and far from an agriculture officer. By the time help arrives, late blight can already have spread.
+
+What we built: a phone app that diagnoses a leaf photo entirely on the device. The farmer picks a crop (or lets the app guess), takes a photo, and gets the likely condition, how urgent it is, what to do now, how to prevent it, and a read-aloud version, all in Marathi, Hindi or English. It is an installable web app. After one visit with internet, the app, the model and the advice work in airplane mode. No server, no account, no data leaves the phone.
+
+How it works: a small 3 MB convolutional network, trained from scratch on 23 leaf conditions from the PlantVillage dataset, runs in plain JavaScript. Its confidence is calibrated, so when it is unsure it says "retake the photo" instead of guessing, and a dedicated class makes it say "not a covered crop" for other plants. Advice is general integrated-management guidance with no pesticide names or doses; it always points to the local KVK and the Kisan Call Centre.
+
+What works today: 94.7% accuracy on 994 held-out images (96.2% when the crop is chosen), 98.3% accuracy on the answers it commits to, and 97.5% of other-crop leaves correctly refused. Diagnosis takes about 0.4 seconds. We verified the full flow in a browser with the network switched off.
+
+Honest limits: the training photos are lab-style, so field accuracy will be lower, and the Hindi and Marathi text still needs review by a native-speaking extension worker. Next: field photos from Maharashtra and more crops.

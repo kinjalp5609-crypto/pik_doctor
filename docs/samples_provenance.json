@@ -1,0 +1,38 @@
+[
+ [
+  1,
+  "Tomato___Late_blight",
+  0.994,
+  "670616fe-c1a6-41a9-99b2-eb6270d8c299___GHLB_PS Leaf 26.2 Day 16.jpg"
+ ],
+ [
+  2,
+  "Grape___Black_rot",
+  0.885,
+  "5735a4b0-0307-4bae-86f5-d02a2988d7f1___FAM_B.Rot 3536.JPG"
+ ],
+ [
+  3,
+  "Corn_(maize)___Common_rust_",
+  1.0,
+  "RS_Rust 1666.JPG"
+ ],
+ [
+  4,
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+  1.0,
+  "b89e6dce-ebc9-4eac-a0f8-19e34657f6e1___UF.GRC_YLCV_Lab 02067.JPG"
+ ],
+ [
+  5,
+  "Potato___Late_blight",
+  1.0,
+  "25bf1e56-4039-4d92-9a66-65b62e3b0f4d___RS_LB 4949.JPG"
+ ],
+ [
+  6,
+  "Tomato___healthy",
+  0.999,
+  "cea3c7e9-94d8-4f97-bd50-e19a428c5162___RS_HL 0013.JPG"
+ ]
+]

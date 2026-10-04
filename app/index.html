@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1f6b3a">
+<meta name="description" content="Pik Doctor: offline crop-leaf disease check in Marathi, Hindi and English. Runs fully on the phone.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<title>Pik Doctor | पीक डॉक्टर</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <img src="icons/icon-192.png" alt="" width="40" height="40">
+    <div><h1 id="appName">Pik Doctor</h1><p id="tagline"></p></div>
+  </div>
+  <div class="langs" role="group" aria-label="Language">
+    <button data-lang="mr" class="chip">मराठी</button>
+    <button data-lang="hi" class="chip">हिंदी</button>
+    <button data-lang="en" class="chip">English</button>
+  </div>
+</header>
+
+<div class="status">
+  <span id="netPill" class="pill"></span>
+  <span id="modelPill" class="pill"></span>
+  <button id="voiceBtn" class="pill btn-pill" type="button" aria-pressed="true"></button>
+  <button id="installBtn" class="pill btn-pill" hidden></button>
+</div>
+
+<main>
+  <section id="home">
+    <p id="homeLead" class="lead"></p>
+    <button id="howtoBtn" class="link howto" type="button"></button>
+
+    <div class="actions">
+      <label class="big primary" id="takeLbl"><span class="ico">📷</span><span id="takeTxt"></span>
+        <input id="camInput" type="file" accept="image/*" capture="environment" hidden></label>
+      <label class="big alt2" id="pickLbl"><span class="ico">🖼️</span><span id="pickTxt"></span>
+        <input id="galInput" type="file" accept="image/*" hidden></label>
+    </div>
+
+    <h2 id="whichCrop"></h2>
+    <div id="crops" class="crops" role="radiogroup"></div>
+    <p id="photoTip" class="tip"></p>
+    <p id="covered" class="tip subtle"></p>
+
+    <div id="samplesBox" class="samples-box">
+      <h3 id="samplesTitle"></h3>
+      <div id="samples" class="samples"></div>
+    </div>
+
+    <div class="history-box">
+      <div class="row"><h3 id="histTitle"></h3><button id="clearHist" class="link"></button></div>
+      <div id="history" class="history"></div>
+    </div>
+  </section>
+
+  <section id="busy" hidden><div class="spinner"></div><p id="busyTxt"></p></section>
+
+  <section id="coach" hidden></section>
+
+  <section id="result" hidden></section>
+</main>
+
+<div id="shop" class="shop" hidden role="dialog" aria-modal="true"></div>
+
+
+<footer><p id="disclaimer"></p></footer>
+<canvas id="work" width="256" height="256" hidden></canvas>
+<script src="engine.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

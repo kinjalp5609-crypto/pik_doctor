@@ -1,0 +1,153 @@
+{
+ "classes": [
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+  "Corn_(maize)___Common_rust_",
+  "Corn_(maize)___Northern_Leaf_Blight",
+  "Corn_(maize)___healthy",
+  "Grape___Black_rot",
+  "Grape___Esca_(Black_Measles)",
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+  "Grape___healthy",
+  "Pepper,_bell___Bacterial_spot",
+  "Pepper,_bell___healthy",
+  "Potato___Early_blight",
+  "Potato___Late_blight",
+  "Potato___healthy",
+  "Tomato___Bacterial_spot",
+  "Tomato___Early_blight",
+  "Tomato___Late_blight",
+  "Tomato___Leaf_Mold",
+  "Tomato___Septoria_leaf_spot",
+  "Tomato___Spider_mites Two-spotted_spider_mite",
+  "Tomato___Target_Spot",
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+  "Tomato___Tomato_mosaic_virus",
+  "Tomato___healthy",
+  "Other___not_covered"
+ ],
+ "size": 96,
+ "pad": 108,
+ "ch": [
+  24,
+  48,
+  64,
+  96
+ ],
+ "hid": 192,
+ "mean": 0.5,
+ "std": 0.25,
+ "temperature": 0.6500000000000001,
+ "tensors": [
+  {
+   "name": "c0w",
+   "shape": [
+    3,
+    3,
+    3,
+    24
+   ],
+   "offset": 0,
+   "length": 648
+  },
+  {
+   "name": "c0b",
+   "shape": [
+    24
+   ],
+   "offset": 2592,
+   "length": 24
+  },
+  {
+   "name": "c1w",
+   "shape": [
+    3,
+    3,
+    24,
+    48
+   ],
+   "offset": 2688,
+   "length": 10368
+  },
+  {
+   "name": "c1b",
+   "shape": [
+    48
+   ],
+   "offset": 44160,
+   "length": 48
+  },
+  {
+   "name": "c2w",
+   "shape": [
+    3,
+    3,
+    48,
+    64
+   ],
+   "offset": 44352,
+   "length": 27648
+  },
+  {
+   "name": "c2b",
+   "shape": [
+    64
+   ],
+   "offset": 154944,
+   "length": 64
+  },
+  {
+   "name": "c3w",
+   "shape": [
+    3,
+    3,
+    64,
+    96
+   ],
+   "offset": 155200,
+   "length": 55296
+  },
+  {
+   "name": "c3b",
+   "shape": [
+    96
+   ],
+   "offset": 376384,
+   "length": 96
+  },
+  {
+   "name": "f0w",
+   "shape": [
+    3456,
+    192
+   ],
+   "offset": 376768,
+   "length": 663552
+  },
+  {
+   "name": "f0b",
+   "shape": [
+    192
+   ],
+   "offset": 3030976,
+   "length": 192
+  },
+  {
+   "name": "f1w",
+   "shape": [
+    192,
+    24
+   ],
+   "offset": 3031744,
+   "length": 4608
+  },
+  {
+   "name": "f1b",
+   "shape": [
+    24
+   ],
+   "offset": 3050176,
+   "length": 24
+  }
+ ],
+ "minConf": 0.7
+}

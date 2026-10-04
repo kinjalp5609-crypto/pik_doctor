@@ -1,0 +1,1124 @@
+{
+ "crops": {
+  "tomato": {
+   "en": "Tomato",
+   "hi": "टमाटर",
+   "mr": "टोमॅटो"
+  },
+  "grape": {
+   "en": "Grape",
+   "hi": "अंगूर",
+   "mr": "द्राक्ष"
+  },
+  "corn": {
+   "en": "Maize",
+   "hi": "मक्का",
+   "mr": "मका"
+  },
+  "potato": {
+   "en": "Potato",
+   "hi": "आलू",
+   "mr": "बटाटा"
+  },
+  "pepper": {
+   "en": "Bell pepper",
+   "hi": "शिमला मिर्च",
+   "mr": "ढोबळी मिरची"
+  }
+ },
+ "snippets": {
+  "do_remove_leaves": {
+   "en": "Pick off the worst-affected leaves and put them in a bag. Do not leave them in the field or in compost.",
+   "hi": "सबसे ज़्यादा प्रभावित पत्तियाँ तोड़कर थैली में रखें। उन्हें खेत में या खाद के ढेर में न छोड़ें।",
+   "mr": "सर्वात जास्त बाधित पाने तोडून पिशवीत ठेवा. ती शेतात किंवा कंपोस्टमध्ये टाकू नका."
+  },
+  "do_destroy_plants": {
+   "en": "Pull out and destroy badly infected plants so the problem does not reach healthy plants.",
+   "hi": "बुरी तरह संक्रमित पौधों को उखाड़कर नष्ट कर दें ताकि रोग स्वस्थ पौधों तक न पहुँचे।",
+   "mr": "जास्त बाधित झाडे उपटून नष्ट करा, म्हणजे रोग निरोगी झाडांपर्यंत पोहोचणार नाही."
+  },
+  "do_water_base": {
+   "en": "Water at the base of the plant, in the morning. Avoid wetting the leaves.",
+   "hi": "सुबह के समय पौधे की जड़ के पास पानी दें। पत्तियों को गीला न करें।",
+   "mr": "सकाळी झाडाच्या बुंध्याजवळ पाणी द्या. पाने ओली होऊ देऊ नका."
+  },
+  "do_no_wet_work": {
+   "en": "Do not walk through or work in the field while plants are wet. Hands, tools and clothes carry the disease.",
+   "hi": "पौधे गीले हों तब खेत में न चलें और काम न करें। हाथ, औज़ार और कपड़े रोग फैलाते हैं।",
+   "mr": "झाडे ओली असताना शेतात फिरू नका किंवा काम करू नका. हात, अवजारे आणि कपड्यांमुळे रोग पसरतो."
+  },
+  "do_expert": {
+   "en": "Show the plant to your Krishi Vigyan Kendra (KVK) or agriculture officer to get the right spray and dose for your crop. Always follow the product label.",
+   "hi": "सही दवा और मात्रा के लिए पौधा अपने कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी को दिखाएँ। हमेशा दवा के लेबल के अनुसार ही प्रयोग करें।",
+   "mr": "योग्य फवारणी व मात्रा जाणून घेण्यासाठी झाड तुमच्या कृषी विज्ञान केंद्रात (KVK) किंवा कृषी अधिकाऱ्यांना दाखवा. औषधाच्या लेबलवरील सूचनांनुसारच वापर करा."
+  },
+  "do_expert_urgent": {
+   "en": "Act today: contact your KVK or agriculture officer right away. This disease can ruin a field within days.",
+   "hi": "आज ही कदम उठाएँ: तुरंत अपने KVK या कृषि अधिकारी से संपर्क करें। यह रोग कुछ ही दिनों में पूरा खेत बर्बाद कर सकता है।",
+   "mr": "आजच कृती करा: ताबडतोब तुमच्या KVK किंवा कृषी अधिकाऱ्यांशी संपर्क साधा. हा रोग काही दिवसांत संपूर्ण शेत उद्ध्वस्त करू शकतो."
+  },
+  "do_ventilate": {
+   "en": "Improve air flow: remove extra branches, keep plants well spaced, and open the vents if you grow in a poly-house.",
+   "hi": "हवा का आना-जाना बढ़ाएँ: फालतू डालियाँ हटाएँ, पौधों में उचित दूरी रखें, पॉलीहाउस में हवा के रास्ते खोलें।",
+   "mr": "हवा खेळती ठेवा: अनावश्यक फांद्या काढा, झाडांमध्ये योग्य अंतर ठेवा, पॉलीहाऊस असल्यास झडपा उघड्या ठेवा."
+  },
+  "do_whitefly": {
+   "en": "Control whiteflies: put up yellow sticky traps and keep seedlings under insect-proof net.",
+   "hi": "सफ़ेद मक्खी पर नियंत्रण रखें: पीले चिपचिपे जाल लगाएँ और नर्सरी को कीट-रोधी जाली के नीचे रखें।",
+   "mr": "पांढऱ्या माशीचे नियंत्रण करा: पिवळे चिकट सापळे लावा आणि रोपवाटिका कीटकरोधक जाळीखाली ठेवा."
+  },
+  "do_wash_tools": {
+   "en": "Wash your hands with soap and clean tools before touching healthy plants.",
+   "hi": "स्वस्थ पौधों को छूने से पहले हाथ साबुन से धोएँ और औज़ार साफ़ करें।",
+   "mr": "निरोगी झाडांना हात लावण्यापूर्वी साबणाने हात धुवा आणि अवजारे स्वच्छ करा."
+  },
+  "do_check_underside": {
+   "en": "Look under the leaf with a magnifying glass for tiny mites and fine webs.",
+   "hi": "पत्ती के नीचे आवर्धक लेंस से छोटे कण (माइट) और बारीक जाले देखें।",
+   "mr": "पानाच्या खालच्या बाजूला भिंगाने बारीक कोळी (माइट) आणि जाळी तपासा."
+  },
+  "do_mites_water": {
+   "en": "A strong spray of plain water under the leaves reduces mites. Avoid strong insecticides without advice; they kill helpful insects.",
+   "hi": "पत्तियों के नीचे सादे पानी की तेज़ धार से कण कम होते हैं। सलाह के बिना तेज़ कीटनाशक न डालें; इससे मित्र कीट मर जाते हैं।",
+   "mr": "पानांच्या खालच्या बाजूला साध्या पाण्याचा जोरदार फवारा मारल्याने कोळी कमी होतात. सल्ल्याशिवाय जहाल कीटकनाशके वापरू नका; त्यामुळे मित्र कीटक मरतात."
+  },
+  "do_remove_mummies": {
+   "en": "Remove and destroy shrivelled black berries and fallen infected leaves.",
+   "hi": "सिकुड़े हुए काले दाने और गिरी हुई संक्रमित पत्तियाँ हटाकर नष्ट कर दें।",
+   "mr": "सुकलेली काळी द्राक्षे आणि गळून पडलेली बाधित पाने गोळा करून नष्ट करा."
+  },
+  "do_mark_vines": {
+   "en": "Mark the affected vines and keep watching them. This trunk disease has no cure; badly affected vines may have to be removed.",
+   "hi": "प्रभावित बेलों पर निशान लगाकर निगरानी रखें। इस तने के रोग का कोई इलाज नहीं है; बहुत प्रभावित बेलें हटानी पड़ सकती हैं।",
+   "mr": "बाधित वेलींवर खूण करून लक्ष ठेवा. खोडाच्या या रोगावर इलाज नाही; जास्त बाधित वेली काढाव्या लागू शकतात."
+  },
+  "do_monitor": {
+   "en": "Check the field every 2–3 days. Take a new photo if the spots spread.",
+   "hi": "हर 2–3 दिन में खेत देखें। धब्बे बढ़ें तो नया फोटो लें।",
+   "mr": "दर २–३ दिवसांनी शेताची पाहणी करा. ठिपके वाढले तर नवीन फोटो काढा."
+  },
+  "do_healthy": {
+   "en": "The leaf looks healthy. Keep up good care and keep checking regularly.",
+   "hi": "पत्ती स्वस्थ दिखती है। अच्छी देखभाल जारी रखें और नियमित जाँच करते रहें।",
+   "mr": "पान निरोगी दिसते. चांगली काळजी चालू ठेवा आणि नियमित तपासणी करत रहा."
+  },
+  "do_rust_mild": {
+   "en": "Common rust is often mild. If many leaves are covered, ask your KVK whether any treatment is needed.",
+   "hi": "कॉमन रस्ट अक्सर हल्का होता है। अगर बहुत सी पत्तियाँ ढक जाएँ तो KVK से पूछें कि इलाज की ज़रूरत है या नहीं।",
+   "mr": "तांबेरा बऱ्याचदा सौम्य असतो. जास्त पानांवर पसरला तर उपचारांची गरज आहे का, हे KVK ला विचारा."
+  },
+  "do_potato_tubers": {
+   "en": "Do not store tubers from infected plants; they can rot in storage and spread the disease.",
+   "hi": "संक्रमित पौधों के कंद भंडारण में न रखें; वे सड़ सकते हैं और रोग फैला सकते हैं।",
+   "mr": "बाधित झाडांचे कंद साठवू नका; ते साठवणीत सडून रोग पसरवू शकतात."
+  },
+  "pv_rotate": {
+   "en": "Rotate crops: do not grow the same crop family in the same field every season.",
+   "hi": "फसल चक्र अपनाएँ: हर मौसम में एक ही परिवार की फसल उसी खेत में न लगाएँ।",
+   "mr": "पीक फेरपालट करा: दरवर्षी एकाच कुळातील पीक त्याच शेतात घेऊ नका."
+  },
+  "pv_seed": {
+   "en": "Use certified, disease-free seed or healthy seedlings.",
+   "hi": "प्रमाणित, रोग-मुक्त बीज या स्वस्थ पौध का उपयोग करें।",
+   "mr": "प्रमाणित, रोगमुक्त बियाणे किंवा निरोगी रोपे वापरा."
+  },
+  "pv_spacing": {
+   "en": "Keep proper spacing and stake plants so leaves dry quickly after rain or dew.",
+   "hi": "उचित दूरी रखें और पौधों को सहारा दें ताकि बारिश या ओस के बाद पत्तियाँ जल्दी सूखें।",
+   "mr": "योग्य अंतर ठेवा आणि झाडांना आधार द्या, म्हणजे पाऊस किंवा दवानंतर पाने लवकर सुकतील."
+  },
+  "pv_residue": {
+   "en": "After harvest, clear or plough in crop residue so the disease cannot survive on it.",
+   "hi": "कटाई के बाद फसल के अवशेष हटा दें या जुताई में दबा दें ताकि रोग उन पर जीवित न रहे।",
+   "mr": "काढणीनंतर पिकाचे अवशेष काढून टाका किंवा नांगरून गाडा, म्हणजे रोग त्यावर टिकणार नाही."
+  },
+  "pv_resistant": {
+   "en": "Ask your KVK for resistant or tolerant varieties or hybrids.",
+   "hi": "KVK से रोग-रोधी या सहनशील किस्में/संकर बीज के बारे में पूछें।",
+   "mr": "KVK कडून रोगप्रतिकारक किंवा सहनशील वाण/संकरित बियाण्यांची माहिती घ्या."
+  },
+  "pv_nutrition": {
+   "en": "Give balanced fertiliser and enough water; stressed plants fall sick more easily.",
+   "hi": "संतुलित खाद और पर्याप्त पानी दें; कमज़ोर पौधे जल्दी बीमार होते हैं।",
+   "mr": "संतुलित खत आणि पुरेसे पाणी द्या; ताण असलेली झाडे लवकर आजारी पडतात."
+  },
+  "pv_weeds": {
+   "en": "Remove weeds in and around the field; they can host pests and viruses.",
+   "hi": "खेत और उसके आसपास के खरपतवार हटाएँ; उन पर कीट और विषाणु पनपते हैं।",
+   "mr": "शेतातील व बांधावरील तण काढा; त्यावर कीड व विषाणू वाढतात."
+  },
+  "pv_mulch": {
+   "en": "Mulch the soil so rain does not splash soil and spores onto the leaves.",
+   "hi": "मिट्टी पर मल्च बिछाएँ ताकि बारिश की छींटों से मिट्टी और बीजाणु पत्तियों पर न उछलें।",
+   "mr": "जमिनीवर मल्चिंग करा, म्हणजे पावसाच्या थेंबांबरोबर माती व बीजाणू पानांवर उडणार नाहीत."
+  },
+  "pv_scout": {
+   "en": "Check your plants often, especially in cool, humid or rainy weather.",
+   "hi": "पौधों की नियमित जाँच करें, ख़ासकर ठंडे, नम या बारिश के मौसम में।",
+   "mr": "झाडांची वारंवार पाहणी करा, विशेषतः थंड, दमट किंवा पावसाळी हवामानात."
+  },
+  "pv_canopy": {
+   "en": "Prune and train vines to open the canopy so leaves and bunches dry quickly.",
+   "hi": "बेलों की छँटाई और प्रशिक्षण करें ताकि पत्तियाँ और गुच्छे जल्दी सूखें।",
+   "mr": "वेलींची छाटणी व वळण देऊन छत्र मोकळे ठेवा, म्हणजे पाने व घड लवकर सुकतील."
+  },
+  "pv_wound": {
+   "en": "Protect pruning wounds and prune in dry weather.",
+   "hi": "छँटाई के घावों को सुरक्षित रखें और सूखे मौसम में छँटाई करें।",
+   "mr": "छाटणीच्या जखमांचे संरक्षण करा आणि कोरड्या हवामानात छाटणी करा."
+  },
+  "pv_nursery": {
+   "en": "Raise seedlings in a clean, covered nursery and check them before transplanting.",
+   "hi": "पौध साफ़, ढकी हुई नर्सरी में तैयार करें और रोपाई से पहले जाँच लें।",
+   "mr": "रोपे स्वच्छ, झाकलेल्या रोपवाटिकेत तयार करा आणि लागवडीपूर्वी तपासा."
+  }
+ },
+ "classes": [
+  {
+   "id": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+   "crop": "corn",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Gray leaf spot",
+    "hi": "ग्रे लीफ स्पॉट (धूसर पत्ती धब्बा)",
+    "mr": "राखाडी पानांवरील ठिपके (ग्रे लीफ स्पॉट)"
+   },
+   "see": {
+    "en": "Narrow, rectangular grey-brown spots that run along the leaf veins.",
+    "hi": "पत्ती की नसों के साथ पतले, आयताकार भूरे-धूसर धब्बे।",
+    "mr": "पानाच्या शिरांच्या दिशेने लांबट, आयताकृती राखाडी-तपकिरी ठिपके."
+   },
+   "do": [
+    "do_monitor",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_residue",
+    "pv_rotate",
+    "pv_resistant"
+   ]
+  },
+  {
+   "id": "Corn_(maize)___Common_rust_",
+   "crop": "corn",
+   "type": "fungal",
+   "urgency": "low",
+   "name": {
+    "en": "Common rust",
+    "hi": "कॉमन रस्ट (रतुआ)",
+    "mr": "तांबेरा (कॉमन रस्ट)"
+   },
+   "see": {
+    "en": "Small, raised reddish-brown powdery bumps on both sides of the leaf.",
+    "hi": "पत्ती के दोनों ओर छोटे, उभरे हुए लाल-भूरे चूर्ण जैसे दाने।",
+    "mr": "पानाच्या दोन्ही बाजूंना लहान, उंचवट्यासारखे लालसर-तपकिरी भुकटीदार ठिपके."
+   },
+   "do": [
+    "do_rust_mild",
+    "do_monitor"
+   ],
+   "prevent": [
+    "pv_resistant",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Corn_(maize)___Northern_Leaf_Blight",
+   "crop": "corn",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Northern leaf blight",
+    "hi": "नॉर्दर्न लीफ ब्लाइट (उत्तरी पत्ती झुलसा)",
+    "mr": "नॉर्दर्न लीफ ब्लाइट (पानांवरील करपा)"
+   },
+   "see": {
+    "en": "Long, cigar-shaped grey-green to tan patches on the leaf.",
+    "hi": "पत्ती पर लंबे, सिगार जैसे धूसर-हरे से भूरे धब्बे।",
+    "mr": "पानावर लांब, सिगारसारखे राखाडी-हिरवे ते तपकिरी चट्टे."
+   },
+   "do": [
+    "do_monitor",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_resistant",
+    "pv_residue",
+    "pv_rotate"
+   ]
+  },
+  {
+   "id": "Corn_(maize)___healthy",
+   "crop": "corn",
+   "type": "healthy",
+   "urgency": "none",
+   "name": {
+    "en": "Healthy leaf",
+    "hi": "स्वस्थ पत्ती",
+    "mr": "निरोगी पान"
+   },
+   "see": {
+    "en": "No clear spots, mould, curling or insects.",
+    "hi": "कोई साफ़ धब्बा, फफूंद, मुड़ाव या कीट नहीं दिखता।",
+    "mr": "स्पष्ट ठिपके, बुरशी, वाकडेपणा किंवा कीड दिसत नाही."
+   },
+   "do": [
+    "do_healthy"
+   ],
+   "prevent": [
+    "pv_scout",
+    "pv_nutrition"
+   ]
+  },
+  {
+   "id": "Grape___Black_rot",
+   "crop": "grape",
+   "type": "fungal",
+   "urgency": "high",
+   "name": {
+    "en": "Black rot",
+    "hi": "ब्लैक रॉट (काला सड़न)",
+    "mr": "काळी कुज (ब्लॅक रॉट)"
+   },
+   "see": {
+    "en": "Small brown round spots with a dark edge on leaves; berries shrivel into hard black balls.",
+    "hi": "पत्तियों पर गहरे किनारे वाले छोटे गोल भूरे धब्बे; दाने सिकुड़कर कठोर काले हो जाते हैं।",
+    "mr": "पानांवर गडद कडा असलेले लहान गोल तपकिरी ठिपके; द्राक्षे सुकून कडक काळी होतात."
+   },
+   "do": [
+    "do_remove_mummies",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_canopy",
+    "pv_residue",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Grape___Esca_(Black_Measles)",
+   "crop": "grape",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Esca (black measles)",
+    "hi": "एस्का (ब्लैक मीज़ल्स)",
+    "mr": "एस्का (ब्लॅक मीझल्स)"
+   },
+   "see": {
+    "en": "Yellow or red stripes between the veins that turn brown ('tiger stripes'); dark spots on berries.",
+    "hi": "नसों के बीच पीली या लाल धारियाँ जो भूरी हो जाती हैं ('बाघ की धारियाँ'); दानों पर काले धब्बे।",
+    "mr": "शिरांमधील पिवळे किंवा लाल पट्टे जे तपकिरी होतात ('वाघाच्या पट्ट्यांसारखे'); द्राक्षांवर काळे ठिपके."
+   },
+   "do": [
+    "do_mark_vines",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_wound",
+    "pv_canopy"
+   ]
+  },
+  {
+   "id": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+   "crop": "grape",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Leaf blight (Isariopsis leaf spot)",
+    "hi": "पत्ती झुलसा (इसारियोप्सिस धब्बा)",
+    "mr": "पानांवरील करपा (इसारियोप्सिस ठिपके)"
+   },
+   "see": {
+    "en": "Irregular dark-brown spots, mostly on older leaves; leaves may dry and fall.",
+    "hi": "पुरानी पत्तियों पर अनियमित गहरे भूरे धब्बे; पत्तियाँ सूखकर गिर सकती हैं।",
+    "mr": "जुन्या पानांवर अनियमित गडद तपकिरी ठिपके; पाने सुकून गळू शकतात."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_canopy",
+    "pv_residue",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Grape___healthy",
+   "crop": "grape",
+   "type": "healthy",
+   "urgency": "none",
+   "name": {
+    "en": "Healthy leaf",
+    "hi": "स्वस्थ पत्ती",
+    "mr": "निरोगी पान"
+   },
+   "see": {
+    "en": "No clear spots, mould, curling or insects.",
+    "hi": "कोई साफ़ धब्बा, फफूंद, मुड़ाव या कीट नहीं दिखता।",
+    "mr": "स्पष्ट ठिपके, बुरशी, वाकडेपणा किंवा कीड दिसत नाही."
+   },
+   "do": [
+    "do_healthy"
+   ],
+   "prevent": [
+    "pv_scout",
+    "pv_nutrition"
+   ]
+  },
+  {
+   "id": "Pepper,_bell___Bacterial_spot",
+   "crop": "pepper",
+   "type": "bacterial",
+   "urgency": "medium",
+   "name": {
+    "en": "Bacterial spot",
+    "hi": "जीवाणु पत्ती धब्बा (बैक्टीरियल स्पॉट)",
+    "mr": "जिवाणूजन्य ठिपके (बॅक्टेरियल स्पॉट)"
+   },
+   "see": {
+    "en": "Small water-soaked spots that turn brown and rough; leaves may yellow and drop.",
+    "hi": "छोटे पानी जैसे धब्बे जो भूरे और खुरदुरे हो जाते हैं; पत्तियाँ पीली होकर गिर सकती हैं।",
+    "mr": "लहान पाणथळ ठिपके जे तपकिरी व खरबरीत होतात; पाने पिवळी पडून गळू शकतात."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_no_wet_work",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_seed",
+    "pv_rotate",
+    "pv_nursery"
+   ]
+  },
+  {
+   "id": "Pepper,_bell___healthy",
+   "crop": "pepper",
+   "type": "healthy",
+   "urgency": "none",
+   "name": {
+    "en": "Healthy leaf",
+    "hi": "स्वस्थ पत्ती",
+    "mr": "निरोगी पान"
+   },
+   "see": {
+    "en": "No clear spots, mould, curling or insects.",
+    "hi": "कोई साफ़ धब्बा, फफूंद, मुड़ाव या कीट नहीं दिखता।",
+    "mr": "स्पष्ट ठिपके, बुरशी, वाकडेपणा किंवा कीड दिसत नाही."
+   },
+   "do": [
+    "do_healthy"
+   ],
+   "prevent": [
+    "pv_scout",
+    "pv_nutrition"
+   ]
+  },
+  {
+   "id": "Potato___Early_blight",
+   "crop": "potato",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Early blight",
+    "hi": "अगेती झुलसा (अर्ली ब्लाइट)",
+    "mr": "लवकर येणारा करपा (अर्ली ब्लाइट)"
+   },
+   "see": {
+    "en": "Brown spots with ring-like lines (like a target), starting on the older, lower leaves.",
+    "hi": "छल्लेदार रेखाओं वाले भूरे धब्बे (निशाने जैसे), पहले नीचे की पुरानी पत्तियों पर।",
+    "mr": "वर्तुळाकार रेषा असलेले तपकिरी ठिपके (नेमबाजीच्या लक्ष्यासारखे), आधी खालच्या जुन्या पानांवर."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_water_base",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_rotate",
+    "pv_nutrition",
+    "pv_seed"
+   ]
+  },
+  {
+   "id": "Potato___Late_blight",
+   "crop": "potato",
+   "type": "fungal",
+   "urgency": "high",
+   "name": {
+    "en": "Late blight",
+    "hi": "पछेती झुलसा (लेट ब्लाइट)",
+    "mr": "उशिरा येणारा करपा (लेट ब्लाइट)"
+   },
+   "see": {
+    "en": "Large, dark, greasy-looking patches; white fuzzy growth underneath in humid weather. Spreads very fast in cool, wet weather.",
+    "hi": "बड़े, गहरे, चिकने से दिखने वाले धब्बे; नमी में नीचे सफ़ेद रुई जैसी परत। ठंडे, गीले मौसम में बहुत तेज़ी से फैलता है।",
+    "mr": "मोठे, गडद, तेलकट दिसणारे चट्टे; दमट हवामानात खालच्या बाजूला पांढरी बुरशी. थंड, ओल्या हवामानात खूप वेगाने पसरतो."
+   },
+   "do": [
+    "do_expert_urgent",
+    "do_destroy_plants",
+    "do_potato_tubers"
+   ],
+   "prevent": [
+    "pv_seed",
+    "pv_resistant",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Potato___healthy",
+   "crop": "potato",
+   "type": "healthy",
+   "urgency": "none",
+   "name": {
+    "en": "Healthy leaf",
+    "hi": "स्वस्थ पत्ती",
+    "mr": "निरोगी पान"
+   },
+   "see": {
+    "en": "No clear spots, mould, curling or insects.",
+    "hi": "कोई साफ़ धब्बा, फफूंद, मुड़ाव या कीट नहीं दिखता।",
+    "mr": "स्पष्ट ठिपके, बुरशी, वाकडेपणा किंवा कीड दिसत नाही."
+   },
+   "do": [
+    "do_healthy"
+   ],
+   "prevent": [
+    "pv_scout",
+    "pv_nutrition"
+   ]
+  },
+  {
+   "id": "Tomato___Bacterial_spot",
+   "crop": "tomato",
+   "type": "bacterial",
+   "urgency": "medium",
+   "name": {
+    "en": "Bacterial spot",
+    "hi": "जीवाणु पत्ती धब्बा (बैक्टीरियल स्पॉट)",
+    "mr": "जिवाणूजन्य ठिपके (बॅक्टेरियल स्पॉट)"
+   },
+   "see": {
+    "en": "Many small dark, water-soaked spots on leaves; rough scabby spots on fruit.",
+    "hi": "पत्तियों पर कई छोटे गहरे, पानी जैसे धब्बे; फलों पर खुरदुरे पपड़ीदार धब्बे।",
+    "mr": "पानांवर अनेक लहान गडद, पाणथळ ठिपके; फळांवर खरबरीत खपल्यांसारखे ठिपके."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_no_wet_work",
+    "do_water_base",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_seed",
+    "pv_rotate",
+    "pv_nursery"
+   ]
+  },
+  {
+   "id": "Tomato___Early_blight",
+   "crop": "tomato",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Early blight",
+    "hi": "अगेती झुलसा (अर्ली ब्लाइट)",
+    "mr": "लवकर येणारा करपा (अर्ली ब्लाइट)"
+   },
+   "see": {
+    "en": "Brown spots with ring-like lines (like a target) on older leaves, with yellowing around them.",
+    "hi": "पुरानी पत्तियों पर छल्लेदार रेखाओं वाले भूरे धब्बे (निशाने जैसे), चारों ओर पीलापन।",
+    "mr": "जुन्या पानांवर वर्तुळाकार रेषा असलेले तपकिरी ठिपके, भोवती पिवळसरपणा."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_water_base",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_rotate",
+    "pv_mulch",
+    "pv_nutrition",
+    "pv_spacing"
+   ]
+  },
+  {
+   "id": "Tomato___Late_blight",
+   "crop": "tomato",
+   "type": "fungal",
+   "urgency": "high",
+   "name": {
+    "en": "Late blight",
+    "hi": "पछेती झुलसा (लेट ब्लाइट)",
+    "mr": "उशिरा येणारा करपा (लेट ब्लाइट)"
+   },
+   "see": {
+    "en": "Large, dark, greasy-looking patches on leaves and stems; white fuzzy growth underneath in humid weather. Spreads very fast in cool, wet weather.",
+    "hi": "पत्तियों और तनों पर बड़े, गहरे, चिकने से धब्बे; नमी में नीचे सफ़ेद रुई जैसी परत। ठंडे, गीले मौसम में बहुत तेज़ी से फैलता है।",
+    "mr": "पाने व खोडांवर मोठे, गडद, तेलकट चट्टे; दमट हवामानात खालच्या बाजूला पांढरी बुरशी. थंड, ओल्या हवामानात खूप वेगाने पसरतो."
+   },
+   "do": [
+    "do_expert_urgent",
+    "do_destroy_plants",
+    "do_water_base"
+   ],
+   "prevent": [
+    "pv_seed",
+    "pv_spacing",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Tomato___Leaf_Mold",
+   "crop": "tomato",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Leaf mould",
+    "hi": "पत्ती फफूंद (लीफ मोल्ड)",
+    "mr": "पानांवरील बुरशी (लीफ मोल्ड)"
+   },
+   "see": {
+    "en": "Pale yellow patches on top of the leaf with olive-green to grey velvety mould underneath. Common in humid, closed spaces.",
+    "hi": "पत्ती के ऊपर हल्के पीले धब्बे और नीचे जैतूनी-हरी से धूसर मखमली फफूंद। नम, बंद जगहों में आम।",
+    "mr": "पानाच्या वरच्या बाजूला फिकट पिवळे ठिपके व खाली जैतुनी-हिरवी ते राखाडी मखमली बुरशी. दमट, बंदिस्त जागी सामान्य."
+   },
+   "do": [
+    "do_ventilate",
+    "do_remove_leaves",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_spacing",
+    "pv_resistant",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Tomato___Septoria_leaf_spot",
+   "crop": "tomato",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Septoria leaf spot",
+    "hi": "सेप्टोरिया पत्ती धब्बा",
+    "mr": "सेप्टोरिया पानावरील ठिपके"
+   },
+   "see": {
+    "en": "Many small round spots with grey-white centres and dark edges, usually on lower leaves.",
+    "hi": "छोटे गोल धब्बे जिनका केंद्र धूसर-सफ़ेद और किनारा गहरा होता है, आमतौर पर नीचे की पत्तियों पर।",
+    "mr": "लहान गोल ठिपके, मध्य राखाडी-पांढरा व कडा गडद, सहसा खालच्या पानांवर."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_no_wet_work",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_rotate",
+    "pv_mulch",
+    "pv_spacing"
+   ]
+  },
+  {
+   "id": "Tomato___Spider_mites Two-spotted_spider_mite",
+   "crop": "tomato",
+   "type": "pest",
+   "urgency": "medium",
+   "name": {
+    "en": "Spider mites",
+    "hi": "मकड़ी कण (स्पाइडर माइट)",
+    "mr": "कोळी (स्पायडर माइट)"
+   },
+   "see": {
+    "en": "Tiny yellow dots on leaves, turning bronze; fine webbing under the leaf. Common in hot, dry weather.",
+    "hi": "पत्तियों पर छोटे पीले बिंदु जो काँसे जैसे हो जाते हैं; पत्ती के नीचे बारीक जाले। गर्म, सूखे मौसम में आम।",
+    "mr": "पानांवर लहान पिवळे ठिपके जे कांस्य रंगाचे होतात; पानाखाली बारीक जाळी. उष्ण, कोरड्या हवामानात सामान्य."
+   },
+   "do": [
+    "do_check_underside",
+    "do_mites_water",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_nutrition",
+    "pv_weeds",
+    "pv_scout"
+   ]
+  },
+  {
+   "id": "Tomato___Target_Spot",
+   "crop": "tomato",
+   "type": "fungal",
+   "urgency": "medium",
+   "name": {
+    "en": "Target spot",
+    "hi": "टारगेट स्पॉट",
+    "mr": "टार्गेट स्पॉट (वर्तुळाकार ठिपके)"
+   },
+   "see": {
+    "en": "Brown spots with ring-like lines and a yellow edge; can also mark the fruit.",
+    "hi": "छल्लेदार रेखाओं और पीले किनारे वाले भूरे धब्बे; फलों पर भी निशान पड़ सकते हैं।",
+    "mr": "वर्तुळाकार रेषा व पिवळ्या कडा असलेले तपकिरी ठिपके; फळांवरही डाग पडू शकतात."
+   },
+   "do": [
+    "do_remove_leaves",
+    "do_ventilate",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_rotate",
+    "pv_spacing",
+    "pv_residue"
+   ]
+  },
+  {
+   "id": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+   "crop": "tomato",
+   "type": "viral",
+   "urgency": "high",
+   "name": {
+    "en": "Yellow leaf curl virus",
+    "hi": "पीली पत्ती मरोड़ विषाणु (लीफ कर्ल वायरस)",
+    "mr": "पिवळी पाने गुंडाळणारा विषाणू (लीफ कर्ल वायरस)"
+   },
+   "see": {
+    "en": "Leaves turn yellow and curl upward, become small; plants are stunted. Spread by whiteflies.",
+    "hi": "पत्तियाँ पीली होकर ऊपर की ओर मुड़ती हैं और छोटी रह जाती हैं; पौधे बौने रह जाते हैं। सफ़ेद मक्खी से फैलता है।",
+    "mr": "पाने पिवळी पडून वरच्या बाजूला गुंडाळली जातात व लहान राहतात; झाडांची वाढ खुंटते. पांढऱ्या माशीमुळे पसरतो."
+   },
+   "do": [
+    "do_destroy_plants",
+    "do_whitefly",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_nursery",
+    "pv_weeds",
+    "pv_resistant"
+   ]
+  },
+  {
+   "id": "Tomato___Tomato_mosaic_virus",
+   "crop": "tomato",
+   "type": "viral",
+   "urgency": "high",
+   "name": {
+    "en": "Mosaic virus",
+    "hi": "मोज़ेक विषाणु",
+    "mr": "मोझॅक विषाणू"
+   },
+   "see": {
+    "en": "Light and dark green patches (mosaic) on leaves, twisted or narrow leaves, slow growth. Spreads by touch and tools.",
+    "hi": "पत्तियों पर हल्के-गहरे हरे धब्बे (मोज़ेक), मुड़ी या पतली पत्तियाँ, धीमी बढ़वार। छूने और औज़ारों से फैलता है।",
+    "mr": "पानांवर फिकट-गडद हिरवे ठिपके (मोझॅक), वळलेली किंवा अरुंद पाने, वाढ मंदावते. स्पर्श व अवजारांमुळे पसरतो."
+   },
+   "do": [
+    "do_destroy_plants",
+    "do_wash_tools",
+    "do_expert"
+   ],
+   "prevent": [
+    "pv_seed",
+    "pv_weeds",
+    "pv_nursery"
+   ]
+  },
+  {
+   "id": "Tomato___healthy",
+   "crop": "tomato",
+   "type": "healthy",
+   "urgency": "none",
+   "name": {
+    "en": "Healthy leaf",
+    "hi": "स्वस्थ पत्ती",
+    "mr": "निरोगी पान"
+   },
+   "see": {
+    "en": "No clear spots, mould, curling or insects.",
+    "hi": "कोई साफ़ धब्बा, फफूंद, मुड़ाव या कीट नहीं दिखता।",
+    "mr": "स्पष्ट ठिपके, बुरशी, वाकडेपणा किंवा कीड दिसत नाही."
+   },
+   "do": [
+    "do_healthy"
+   ],
+   "prevent": [
+    "pv_scout",
+    "pv_nutrition"
+   ]
+  },
+  {
+   "id": "Other___not_covered",
+   "crop": "other",
+   "type": "other",
+   "urgency": "none",
+   "name": {
+    "en": "Not a covered crop leaf",
+    "hi": "समर्थित फसल की पत्ती नहीं",
+    "mr": "समर्थित पिकाचे पान नाही"
+   },
+   "see": {
+    "en": "",
+    "hi": "",
+    "mr": ""
+   },
+   "do": [],
+   "prevent": []
+  }
+ ],
+ "ui": {
+  "app_name": {
+   "en": "Pik Doctor",
+   "hi": "पीक डॉक्टर",
+   "mr": "पीक डॉक्टर"
+  },
+  "tagline": {
+   "en": "Check a crop leaf. Works with no internet.",
+   "hi": "फसल की पत्ती जाँचें। बिना इंटरनेट के चलता है।",
+   "mr": "पिकाचे पान तपासा. इंटरनेटशिवाय चालते."
+  },
+  "online": {
+   "en": "Online",
+   "hi": "ऑनलाइन",
+   "mr": "ऑनलाइन"
+  },
+  "offline": {
+   "en": "Offline: fully working",
+   "hi": "ऑफ़लाइन: पूरी तरह चालू",
+   "mr": "ऑफलाइन: पूर्णपणे चालू"
+  },
+  "model_loading": {
+   "en": "Loading the model…",
+   "hi": "मॉडल लोड हो रहा है…",
+   "mr": "मॉडेल लोड होत आहे…"
+  },
+  "model_ready": {
+   "en": "Ready on this phone",
+   "hi": "इस फ़ोन पर तैयार",
+   "mr": "या फोनवर तयार"
+  },
+  "which_crop": {
+   "en": "Which crop?",
+   "hi": "कौन सी फसल?",
+   "mr": "कोणते पीक?"
+  },
+  "crop_auto": {
+   "en": "Not sure (auto)",
+   "hi": "पता नहीं (अपने आप)",
+   "mr": "माहीत नाही (आपोआप)"
+  },
+  "take_photo": {
+   "en": "Take a photo",
+   "hi": "फोटो लें",
+   "mr": "फोटो काढा"
+  },
+  "choose_photo": {
+   "en": "Choose from gallery",
+   "hi": "गैलरी से चुनें",
+   "mr": "गॅलरीमधून निवडा"
+  },
+  "photo_tip": {
+   "en": "Tip: put one leaf on a plain background in daylight and fill the frame.",
+   "hi": "सुझाव: दिन की रोशनी में एक पत्ती को सादी पृष्ठभूमि पर रखें और फ़्रेम में पूरी भरें।",
+   "mr": "सूचना: दिवसाच्या प्रकाशात एकच पान साध्या पार्श्वभूमीवर ठेवा आणि फ्रेम भरून घ्या."
+  },
+  "covered": {
+   "en": "Covers tomato, grape, maize, potato and bell pepper.",
+   "hi": "टमाटर, अंगूर, मक्का, आलू और शिमला मिर्च के लिए।",
+   "mr": "टोमॅटो, द्राक्ष, मका, बटाटा व ढोबळी मिरचीसाठी."
+  },
+  "checking": {
+   "en": "Checking the leaf…",
+   "hi": "पत्ती की जाँच हो रही है…",
+   "mr": "पान तपासले जात आहे…"
+  },
+  "result": {
+   "en": "Result",
+   "hi": "नतीजा",
+   "mr": "निकाल"
+  },
+  "confidence": {
+   "en": "Confidence",
+   "hi": "भरोसा",
+   "mr": "खात्री"
+  },
+  "not_sure_title": {
+   "en": "Not sure. Please retake the photo.",
+   "hi": "पक्का नहीं। कृपया दोबारा फोटो लें।",
+   "mr": "खात्री नाही. कृपया पुन्हा फोटो काढा."
+  },
+  "not_sure_body": {
+   "en": "The app cannot tell clearly. Take a closer, brighter photo of one leaf. If the problem continues, show the plant to your KVK or agriculture officer.",
+   "hi": "ऐप साफ़ नहीं बता पा रहा। एक पत्ती का पास से, रोशनी में फोटो लें। समस्या बनी रहे तो पौधा अपने KVK या कृषि अधिकारी को दिखाएँ।",
+   "mr": "अॅप स्पष्ट सांगू शकत नाही. एका पानाचा जवळून, उजेडात फोटो काढा. समस्या कायम राहिली तर झाड KVK किंवा कृषी अधिकाऱ्यांना दाखवा."
+  },
+  "best_guess": {
+   "en": "Best guess so far:",
+   "hi": "अभी तक का सबसे संभावित:",
+   "mr": "आतापर्यंतचा संभाव्य अंदाज:"
+  },
+  "other_possible": {
+   "en": "Other possibilities",
+   "hi": "अन्य संभावनाएँ",
+   "mr": "इतर शक्यता"
+  },
+  "what_see": {
+   "en": "What it looks like",
+   "hi": "यह कैसा दिखता है",
+   "mr": "हे कसे दिसते"
+  },
+  "what_do": {
+   "en": "What to do now",
+   "hi": "अभी क्या करें",
+   "mr": "आता काय करावे"
+  },
+  "how_prevent": {
+   "en": "How to prevent it",
+   "hi": "इसे कैसे रोकें",
+   "mr": "प्रतिबंध कसा करावा"
+  },
+  "get_help": {
+   "en": "Get expert help",
+   "hi": "विशेषज्ञ की मदद लें",
+   "mr": "तज्ज्ञांची मदत घ्या"
+  },
+  "kcc": {
+   "en": "Kisan Call Centre: 1800-180-1551 (toll free)",
+   "hi": "किसान कॉल सेंटर: 1800-180-1551 (टोल फ़्री)",
+   "mr": "किसान कॉल सेंटर: 1800-180-1551 (टोल फ्री)"
+  },
+  "disclaimer": {
+   "en": "This is a screening aid, not a final diagnosis. Confirm with an agriculture expert before you spray anything.",
+   "hi": "यह जाँच में सहायता है, अंतिम निदान नहीं। कोई भी दवा छिड़कने से पहले कृषि विशेषज्ञ से पुष्टि करें।",
+   "mr": "ही तपासणीसाठी मदत आहे, अंतिम निदान नाही. कोणतीही फवारणी करण्यापूर्वी कृषी तज्ज्ञांकडून खात्री करा."
+  },
+  "listen": {
+   "en": "Listen",
+   "hi": "सुनें",
+   "mr": "ऐका"
+  },
+  "stop": {
+   "en": "Stop",
+   "hi": "रोकें",
+   "mr": "थांबवा"
+  },
+  "no_voice": {
+   "en": "This phone has no voice for this language. Install it in the phone's text-to-speech settings.",
+   "hi": "इस फ़ोन में इस भाषा की आवाज़ नहीं है। फ़ोन की टेक्स्ट-टू-स्पीच सेटिंग में इसे इंस्टॉल करें।",
+   "mr": "या फोनमध्ये या भाषेचा आवाज नाही. फोनच्या टेक्स्ट-टू-स्पीच सेटिंगमध्ये तो इन्स्टॉल करा."
+  },
+  "history": {
+   "en": "Past checks (saved on this phone)",
+   "hi": "पिछली जाँचें (इसी फ़ोन में सहेजी)",
+   "mr": "मागील तपासण्या (याच फोनमध्ये साठवलेल्या)"
+  },
+  "history_empty": {
+   "en": "No checks yet.",
+   "hi": "अभी कोई जाँच नहीं।",
+   "mr": "अजून कोणतीही तपासणी नाही."
+  },
+  "clear": {
+   "en": "Clear",
+   "hi": "मिटाएँ",
+   "mr": "पुसा"
+  },
+  "again": {
+   "en": "Check another leaf",
+   "hi": "दूसरी पत्ती जाँचें",
+   "mr": "दुसरे पान तपासा"
+  },
+  "install": {
+   "en": "Install app",
+   "hi": "ऐप इंस्टॉल करें",
+   "mr": "अॅप इन्स्टॉल करा"
+  },
+  "error": {
+   "en": "Could not read this photo. Please try again.",
+   "hi": "यह फोटो पढ़ा नहीं जा सका। कृपया दोबारा कोशिश करें।",
+   "mr": "हा फोटो वाचता आला नाही. कृपया पुन्हा प्रयत्न करा."
+  },
+  "other_title": {
+   "en": "This does not look like a covered crop leaf",
+   "hi": "यह किसी समर्थित फसल की पत्ती नहीं लगती",
+   "mr": "हे समर्थित पिकाचे पान दिसत नाही"
+  },
+  "other_body": {
+   "en": "Pik Doctor covers tomato, grape, maize, potato and bell pepper leaves. Take a close photo of one leaf of these crops, or ask your KVK about other crops.",
+   "hi": "पीक डॉक्टर टमाटर, अंगूर, मक्का, आलू और शिमला मिर्च की पत्तियाँ जाँचता है। इन फसलों की एक पत्ती का पास से फोटो लें, या दूसरी फसलों के लिए KVK से पूछें।",
+   "mr": "पीक डॉक्टर टोमॅटो, द्राक्ष, मका, बटाटा व ढोबळी मिरचीची पाने तपासतो. या पिकांपैकी एका पानाचा जवळून फोटो काढा, किंवा इतर पिकांसाठी KVK ला विचारा."
+  },
+  "healthy_word": {
+   "en": "Healthy",
+   "hi": "स्वस्थ",
+   "mr": "निरोगी"
+  },
+  "types": {
+   "fungal": {
+    "en": "Fungal disease",
+    "hi": "फफूंद जनित रोग",
+    "mr": "बुरशीजन्य रोग"
+   },
+   "bacterial": {
+    "en": "Bacterial disease",
+    "hi": "जीवाणु जनित रोग",
+    "mr": "जिवाणूजन्य रोग"
+   },
+   "viral": {
+    "en": "Viral disease",
+    "hi": "विषाणु जनित रोग",
+    "mr": "विषाणूजन्य रोग"
+   },
+   "pest": {
+    "en": "Pest attack (mites)",
+    "hi": "कीट प्रकोप (माइट)",
+    "mr": "किडीचा प्रादुर्भाव (कोळी)"
+   },
+   "healthy": {
+    "en": "Healthy",
+    "hi": "स्वस्थ",
+    "mr": "निरोगी"
+   }
+  },
+  "urgency": {
+   "high": {
+    "en": "Act today",
+    "hi": "आज ही कदम उठाएँ",
+    "mr": "आजच कृती करा"
+   },
+   "medium": {
+    "en": "Act this week",
+    "hi": "इसी सप्ताह कार्रवाई करें",
+    "mr": "याच आठवड्यात कृती करा"
+   },
+   "low": {
+    "en": "Keep watching",
+    "hi": "निगरानी रखें",
+    "mr": "लक्ष ठेवा"
+   },
+   "none": {
+    "en": "All good",
+    "hi": "सब ठीक",
+    "mr": "सर्व ठीक"
+   }
+  },
+  "home_lead": {
+   "en": "Take a photo of one sick leaf.",
+   "hi": "एक बीमार पत्ती का फोटो लें।",
+   "mr": "एका आजारी पानाचा फोटो काढा."
+  },
+  "howto_btn": {
+   "en": "Hear how to use",
+   "hi": "सुनें: कैसे इस्तेमाल करें",
+   "mr": "ऐका: कसे वापरावे"
+  },
+  "howto_voice": {
+   "en": "Take a photo of one sick leaf. If you know your crop, tap it first. Then press the big green camera button. The phone will tell you what to do.",
+   "hi": "एक बीमार पत्ती का फोटो लें। फसल पता हो तो पहले उसे दबाएँ। फिर बड़ा हरा कैमरा बटन दबाएँ। फ़ोन आपको बताएगा कि क्या करना है।",
+   "mr": "एका आजारी पानाचा फोटो काढा. पीक माहीत असेल तर आधी ते दाबा. मग मोठे हिरवे कॅमेरा बटण दाबा. फोन तुम्हाला काय करायचे ते सांगेल."
+  },
+  "crop_optional": {
+   "en": "Know your crop? Tap it (optional)",
+   "hi": "फसल पता है? दबाएँ (ज़रूरी नहीं)",
+   "mr": "पीक माहीत आहे? दाबा (ऐच्छिक)"
+  },
+  "auto_voice": {
+   "en": "Voice",
+   "hi": "आवाज़",
+   "mr": "आवाज"
+  },
+  "sure_very": {
+   "en": "Very sure",
+   "hi": "बहुत पक्का",
+   "mr": "खूप खात्री"
+  },
+  "sure_fair": {
+   "en": "Fairly sure",
+   "hi": "काफ़ी पक्का",
+   "mr": "बऱ्यापैकी खात्री"
+  },
+  "more_details": {
+   "en": "More details",
+   "hi": "और जानकारी",
+   "mr": "अधिक माहिती"
+  },
+  "call_now": {
+   "en": "Call expert (free)",
+   "hi": "विशेषज्ञ को फोन करें (मुफ़्त)",
+   "mr": "तज्ज्ञांना फोन करा (मोफत)"
+  },
+  "show_shop": {
+   "en": "Show to shop",
+   "hi": "दुकान पर दिखाएँ",
+   "mr": "दुकानदाराला दाखवा"
+  },
+  "share_wa": {
+   "en": "Send on WhatsApp",
+   "hi": "व्हाट्सऐप पर भेजें",
+   "mr": "व्हॉट्सअ‍ॅपवर पाठवा"
+  },
+  "wa_offline": {
+   "en": "No internet now. Try again when you have signal.",
+   "hi": "अभी इंटरनेट नहीं है। सिग्नल मिलने पर फिर कोशिश करें।",
+   "mr": "आत्ता इंटरनेट नाही. सिग्नल मिळाल्यावर पुन्हा प्रयत्न करा."
+  },
+  "coach_dark": {
+   "en": "Too dark. Move to daylight.",
+   "hi": "बहुत अँधेरा है। दिन की रोशनी में जाएँ।",
+   "mr": "खूप अंधार आहे. दिवसाच्या उजेडात जा."
+  },
+  "coach_bright": {
+   "en": "Too bright. Move out of direct sun.",
+   "hi": "बहुत चमक है। सीधी धूप से हटें।",
+   "mr": "खूप तेज उजेड आहे. थेट उन्हापासून दूर जा."
+  },
+  "coach_blur": {
+   "en": "Photo is blurry. Hold the phone still and come closer.",
+   "hi": "फोटो धुंधला है। फ़ोन स्थिर रखें और पास आएँ।",
+   "mr": "फोटो धूसर आहे. फोन स्थिर धरा आणि जवळ या."
+  },
+  "retake": {
+   "en": "Retake photo",
+   "hi": "दोबारा फोटो लें",
+   "mr": "पुन्हा फोटो काढा"
+  },
+  "use_anyway": {
+   "en": "Use this photo anyway",
+   "hi": "यही फोटो इस्तेमाल करें",
+   "mr": "हाच फोटो वापरा"
+  },
+  "shop_title": {
+   "en": "Leaf check report",
+   "hi": "पत्ती जाँच रिपोर्ट",
+   "mr": "पान तपासणी अहवाल"
+  },
+  "shop_ask": {
+   "en": "Please advise the right treatment for this problem.",
+   "hi": "कृपया इस समस्या का सही उपचार बताएँ।",
+   "mr": "कृपया या समस्येवर योग्य उपाय सांगा."
+  },
+  "shop_note": {
+   "en": "Screening result from the Pik Doctor app. Not a final diagnosis.",
+   "hi": "पीक डॉक्टर ऐप का प्राथमिक नतीजा। अंतिम निदान नहीं।",
+   "mr": "पीक डॉक्टर अॅपचा प्राथमिक निकाल. अंतिम निदान नाही."
+  },
+  "close": {
+   "en": "Close",
+   "hi": "बंद करें",
+   "mr": "बंद करा"
+  },
+  "wa_prefix": {
+   "en": "Pik Doctor leaf check",
+   "hi": "पीक डॉक्टर पत्ती जाँच",
+   "mr": "पीक डॉक्टर पान तपासणी"
+  },
+  "unsure_icon_hint": {
+   "en": "Retake the photo",
+   "hi": "दोबारा फोटो लें",
+   "mr": "पुन्हा फोटो काढा"
+  }
+ }
+}
